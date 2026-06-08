@@ -41,6 +41,8 @@ const emptyKYCData: KYCData = {
   occupation: "",
 };
 
+// ⚠️ DEMO DATA ONLY — All personal information below is fictional placeholder
+// data for the interactive prototype. No real PII is stored or processed.
 const beanBankKYCData: KYCData = {
   nameEn: "John Doe",
   nameZh: "陳大文",
